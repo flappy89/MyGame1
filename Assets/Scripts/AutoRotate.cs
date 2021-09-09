@@ -18,7 +18,7 @@ public class AutoRotate : MonoBehaviour
         Vector3 r = new Vector3(0, 0.1f, 0);
         GetComponent<Transform>().Rotate(r);
 
-        
+            
 
     }
 }
